@@ -28,5 +28,4 @@ I design and implement scalable, secure, enterprise cloud platforms across AWS a
 (list here)
 
 ## Connect
-LinkedIn
-Email
+https://www.linkedin.com/in/whoatulmishra/
